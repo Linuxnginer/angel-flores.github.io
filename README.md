@@ -22,7 +22,7 @@ Personal portfolio and resume website for Angel Flores.
 
 ## Website
 
-https://angel-flores.github.io/
+[https://angel-flores.github.io/](https://linuxnginer.github.io/angel-flores.github.io/)
 
 ## Hosting
 

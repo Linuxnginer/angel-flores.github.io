@@ -1,1 +1,296 @@
 
+ANGEL FLORES
+Cybersecurity Systems Engineer
+CMMC & NIST Security • Zero Trust • Systems Engineering • Cloud Infrastructure • DevSecOps
+PROFESSIONAL SUMMARY
+Cybersecurity-focused Systems Engineer with 5+ years of experience designing, deploying, securing, and operating production IT infrastructure across enterprise and mid-sized business environments.
+Hands-on background spanning systems engineering, cybersecurity, infrastructure, Zero Trust, cloud technologies, containerization, DevSecOps, automation, and observability. Growing specialization in CMMC and NIST-aligned security environments, with an emphasis on implementing secure, resilient, observable, automated, and auditable infrastructure.
+
+Experienced in Linux administration, virtualized infrastructure, Docker, Kubernetes/k3s, AWS, Azure, NGINX, Cloudflare, GitHub Actions, Grafana, and Zero Trust Network Access.
+
+Interested in the intersection of cybersecurity, artificial intelligence, drone technology, robotics, and autonomous systems.
+
+CORE COMPETENCIES
+Cybersecurity & Compliance
+CMMC security requirements
+NIST Cybersecurity Framework (CSF)
+NIST SP 800-171
+NIST SP 800-53
+Security documentation
+Audit readiness
+Security monitoring
+Vulnerability management
+Incident response
+Identity & Zero Trust
+Zero Trust Architecture
+Zero Trust Network Access (ZTNA)
+Identity & Access Management (IAM)
+Role-Based Access Control (RBAC)
+Multi-Factor Authentication (MFA)
+Single Sign-On (SSO)
+Least-privilege access
+Resource-level authorization
+Systems & Infrastructure
+Linux administration
+Virtual machines
+On-premises infrastructure
+AWS
+Azure
+System hardening
+Patch management
+Secure configuration
+Production troubleshooting
+Networking & Security
+TCP/IP
+DNS
+Network segmentation
+Boundary protection
+Reverse proxies
+NGINX
+Cloudflare Tunnel
+Secure remote access
+Attack-surface reduction
+Containers & Orchestration
+Docker
+Container networking
+Container image management
+Kubernetes
+k3s
+Kubernetes RBAC
+Ingress
+Workload isolation
+DevSecOps & Automation
+GitHub Actions
+CI/CD
+Infrastructure as Code
+Terraform
+Automated deployments
+Configuration standardization
+Version-controlled infrastructure
+Repeatable deployments
+Monitoring & Observability
+Grafana
+Infrastructure monitoring
+Application monitoring
+Logging
+Alerting
+System health monitoring
+Resource monitoring
+Security-event visibility
+FEATURED SECURITY PROJECT
+Zero Trust Network Access — Twingate
+Designed and implemented a Zero Trust Network Access (ZTNA) solution for a mid-sized organization, modernizing remote access and reducing reliance on traditional VPN architecture.
+Responsibilities
+
+Provisioned and administered Linux virtual machines supporting the ZTNA architecture.
+Deployed and maintained Docker-based Twingate Connectors.
+Designed secure remote-access architecture around identity and resource-level authorization.
+Implemented resource-level access policies.
+Integrated Single Sign-On (SSO).
+Implemented Role-Based Access Control (RBAC).
+Enforced Multi-Factor Authentication (MFA).
+Applied least-privilege access principles.
+Maintained highly available connector infrastructure.
+Secured access to internal applications and services.
+Reduced unnecessary public exposure of internal resources.
+Security Impact
+Moved remote access toward an identity-centric, least-privilege security model, reducing network attack surface while improving access control and security visibility.
+
+SYSTEMS ENGINEERING
+Hands-on experience designing, deploying, securing, and maintaining infrastructure across on-premises and cloud environments.
+Linux server administration
+Virtual machine administration
+System hardening
+Secure configuration
+Software and patch management
+Production infrastructure maintenance
+Infrastructure troubleshooting
+Infrastructure documentation
+Availability and reliability
+Configuration management
+Change management
+CLOUD, CONTAINERS & PLATFORM ENGINEERING
+Cloud
+AWS
+Microsoft Azure
+Containers
+Docker
+Containerized production services
+Container networking
+Container image management
+Workload isolation
+Container deployment workflows
+Kubernetes
+Kubernetes administration
+k3s cluster deployment
+Kubernetes workloads
+Kubernetes networking
+Ingress configuration
+Kubernetes RBAC
+Cluster monitoring
+Production troubleshooting
+Application deployment
+Workload availability
+DEVSECOPS & INFRASTRUCTURE AUTOMATION
+Build and maintain repeatable infrastructure and application delivery processes using automation and version-controlled workflows.
+GitHub Actions
+CI/CD pipelines
+Automated builds
+Automated testing
+Container workflows
+Deployment automation
+Production releases
+Git-based workflows
+Terraform
+Infrastructure as Code
+Configuration standardization
+Change tracking
+Infrastructure repeatability
+CYBERSECURITY & COMPLIANCE ENGINEERING
+Focused on implementing technical controls and infrastructure practices that support CMMC and NIST-aligned security environments.
+Access Control
+Account management
+Least-privilege access
+RBAC
+MFA
+SSO
+Remote-access restrictions
+Resource-level authorization
+Configuration Management
+Secure configuration baselines
+System hardening
+Configuration tracking
+Change management
+Infrastructure standardization
+Configuration drift reduction
+Infrastructure as Code
+System & Communications Protection
+Network segmentation
+Boundary protection
+Secure remote access
+Zero Trust architecture
+Encryption
+Secure network architecture
+Reduction of publicly exposed services
+System & Information Integrity
+Security monitoring
+Logging
+Vulnerability identification
+Patch management
+System integrity monitoring
+Security alerting
+Continuous improvement
+Audit & Accountability
+Access logging
+System logging
+Security event monitoring
+Configuration tracking
+Infrastructure documentation
+Operational visibility
+Audit-supporting evidence
+SECURITY OPERATIONS & INCIDENT RESPONSE
+Experience supporting security operations through infrastructure monitoring, investigation, remediation, and continuous improvement.
+Security event monitoring
+Infrastructure anomaly detection
+Incident investigation
+Log analysis
+Incident documentation
+Containment concepts
+Root-cause analysis
+Remediation
+Corrective actions
+Security improvement
+Operational recovery
+VULNERABILITY & RISK MANAGEMENT
+Vulnerability identification
+Risk-based remediation
+System hardening
+Security patching
+Attack-surface reduction
+Service minimization
+Configuration review
+Remediation tracking
+Security validation
+Risk documentation
+MONITORING & OBSERVABILITY
+Grafana
+Infrastructure monitoring
+Application monitoring
+System health monitoring
+Resource utilization monitoring
+Logging
+Operational visibility
+Alerting
+Production troubleshooting
+Security-event visibility
+EMERGING TECHNOLOGY INTERESTS
+Artificial Intelligence & Autonomous Systems
+Strong personal interest in the intersection of AI, cybersecurity, robotics, autonomous vehicles, and intelligent infrastructure.
+Areas of interest include:
+
+Artificial intelligence and machine learning
+Computer vision
+Sensor fusion
+Autonomous navigation
+Edge AI
+Robotics
+Autonomous decision-making
+Intelligent transportation systems
+AI infrastructure security
+Security of autonomous platforms
+Drone Technology
+Interested in unmanned aerial systems (UAS) and the technologies enabling increasingly autonomous flight.
+Areas of interest include:
+
+Drone technology
+Autonomous flight
+Navigation and positioning
+Remote sensing
+Flight-control systems
+Drone communications
+Edge computing
+Computer vision
+Drone cybersecurity
+Autonomous mission systems
+PROFESSIONAL INTERESTS
+Cybersecurity Engineering
+Systems Engineering
+Zero Trust Architecture
+CMMC & NIST Security
+Cloud Security
+DevSecOps
+Infrastructure Automation
+AI Security
+Autonomous Systems Security
+Drone Technology
+Robotics
+Emerging Technology
+PERSONAL INTERESTS
+Running — Distance running, endurance training, outdoor fitness, and goal-oriented performance.
+Drone Technology — Exploring unmanned systems, autonomous flight, sensors, navigation, and emerging UAS technologies.
+
+AI & Autonomous Vehicles — Exploring artificial intelligence, robotics, computer vision, autonomous navigation, and intelligent transportation technologies.
+
+TECHNOLOGY STACK
+Operating Systems: Linux
+Cloud: AWS, Azure
+
+Infrastructure: Virtual Machines, On-Premises Infrastructure
+
+Containers: Docker
+
+Orchestration: Kubernetes, k3s
+
+Networking: TCP/IP, DNS, NGINX, Cloudflare Tunnel
+
+Security: CMMC, NIST CSF, NIST SP 800-171, NIST SP 800-53, Zero Trust, ZTNA, IAM, RBAC, MFA, SSO
+
+Automation: GitHub Actions, Terraform, Infrastructure as Code
+
+Monitoring: Grafana, Logging, Alerting, Observability
+
+Development & Operations: Git, CI/CD, Container Workflows, Production Infrastructure
+
+CAREER DIRECTION
+Focused on continuing to grow as a Cybersecurity Systems Engineer while expanding expertise across CMMC/NIST compliance, Zero Trust, cloud security, DevSecOps, Infrastructure as Code, AI security, and autonomous systems.
+Long-term interest lies at the intersection of cybersecurity + infrastructure + artificial intelligence + autonomous technology, with an emphasis on building systems that are secure, resilient, observable, automated, and auditable.
